@@ -1,5 +1,5 @@
 {
-    "name": "ezitisitis/laravel-tracking",
+    "name": "ezitisitis/laravel-social-tracking",
     "description": "Helper class to setup different trackers faster",
     "type": "library",
     "license": "AGPL-3.0-or-later",
