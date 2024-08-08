@@ -29,3 +29,7 @@ Simply put `Tracker::your_desired_tracker` to the `head` section. For example:
     ...
 </body>
 ```
+
+## Credits
+
+- [Marks Bogdanovs](https://www.ezitisitis.com)
